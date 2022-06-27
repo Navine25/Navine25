@@ -2,9 +2,7 @@
 
 👦 My Name is Bernard Calvin
 
-🌱 I’m currently learning DevOps
-
-💞️ I’m looking to collaborate on deploy an app
+🌱 I’m currently learning DevOps and Nodejs
 
 📫 Reach me at email bernardcalvin2000@gmail.com
 <!---
